@@ -11,13 +11,13 @@ export const Work = [
     },
     {
         id: 2,
-        name: "NFTCall",
+        name: "NFTxHype",
         description:
-            "NFTCall is a website of all the latest news and information about upcoming NFT collections. It also has a premium membership area where users can purchase secret and more powerful NFT news before everyone.",
-        tags: ["Html", "sass"],
+            "NFT E-Commerce App made with react js.",
+        tags: ["React Js", "Javascript", "Html", "CSS"],
 
-        demo: "https://lucasetrigo.github.io/TheNFTCall/",
-        github: "https://github.com/LucasETrigo/SASS-NFTCall",
+        demo: "https://github.com/LucasETrigo/ecom-react-app",
+        github: "https://github.com/LucasETrigo/ecom-react-app",
     },
     {
         id: 3,

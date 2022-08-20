@@ -47,6 +47,7 @@ const MainContainer = styled(motion.div)`
     }
 `;
 
+
 const Container = styled.div`
     padding: 2rem;
 `;
