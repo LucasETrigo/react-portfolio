@@ -1,13 +1,13 @@
 export const Work = [
     {
         id: 1,
-        name: "Random Password Generator App",
+        name: "Cambursano Minting DApp",
         description:
-            "It's a website that lets you generate a random password letting the user choose the lenth and a lot more options to make the password suit your needs.",
-        tags: ["JavaScript", "Html", "CSS"],
+            "NFT Minting Website, where users can mint their own NFTs from the Cambursano Collection (which was created by me). Users will be prompted to connect their wallet to the website, and then they can mint their NFTs. The NFTs are stored on the Ethereum Blockchain, and the website is hosted on IPFS.",
+        tags: ["React Js", "Solidity", "Web3", "IPFS", "Ethereum", "WebPack"],
 
-        demo: "https://lucasetrigo.github.io/GeneradorClavesJS/",
-        github: "https://github.com/LucasETrigo/GeneradorClavesJS",
+        demo: "https://cheerful-eclair-14d93f.netlify.app/",
+        github: "https://github.com/LucasETrigo/Cambursano-NFT-Project",
     },
     {
         id: 2,
