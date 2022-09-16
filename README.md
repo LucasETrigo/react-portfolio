@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Personal portfolio website made with React 👄
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To find out more please visit:
+
+[👄 LinkedIn](https://www.linkedin.com/in/mrlucastrigo/)
+
+[🐦 Twitter](https://twitter.com/Lukeee_98)
+
+[ℹ️ Website](https://lucastrigo.com/)
+
+
 
 ## Available Scripts
 
