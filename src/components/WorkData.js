@@ -3,7 +3,7 @@ export const Work = [
         id: 1,
         name: "Cambursano Minting DApp",
         description:
-            "NFT Minting Website, where users can mint their own NFTs from the Cambursano Collection (which was created by me). Users will be prompted to connect their wallet to the website, and then they can mint their NFTs. The NFTs are stored on the Ethereum Blockchain, and the website is hosted on IPFS.",
+            "NFT Minting Website, where users can mint their own NFTs from the Cambursano Collection (which was created by me). Users will be prompted to connect their wallet to the website, and then they can mint their NFTs.",
         tags: ["React Js", "Solidity", "Web3", "IPFS", "Ethereum", "WebPack"],
 
         demo: "https://cheerful-eclair-14d93f.netlify.app/",
